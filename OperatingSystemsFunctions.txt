@@ -1,5 +1,10 @@
 Booting up a Computer 
 
 Booting up a computer is a sequence to functions that start the computer up.  
-This is the inital series of events that happen whe the computer is turnd on.
-Booting up a computer can be initiated by the touch of a button or a software command.  
+This is the initial series of events that happen when the computer is turned on.
+Booting up a computer can be initiated by the touch of a button or a software command. 
+
+Memory Managements 
+Memory management is the process of coordinating computer memory. 
+The hardware that is used for memory management called RAM.  
+Memory management helps to maintain the overall system.  
