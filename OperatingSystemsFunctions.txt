@@ -1,0 +1,5 @@
+Booting up a Computer 
+
+Booting up a computer is a sequence to functions that start the computer up.  
+This is the inital series of events that happen whe the computer is turnd on.
+Booting up a computer can be initiated by the touch of a button or a software command.  
