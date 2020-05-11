@@ -8,3 +8,8 @@ Memory Managements
 Memory management is the process of coordinating computer memory. 
 The hardware that is used for memory management called RAM.  
 Memory management helps to maintain the overall system.  
+
+Device Controlling 
+The operating system controls the devices plugged into the computer.
+These items could be a printer, mouse or keyboard. 
+These are essential items used daily for a computer.  
